@@ -1,1 +1,1 @@
-export function add(input) {}
+export function func(input) {}

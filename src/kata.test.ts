@@ -1,2 +1,2 @@
 import { describe, expect, test, it } from "@jest/globals";
-import { add } from "./kata";
+import { func } from "./kata";
